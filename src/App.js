@@ -10,14 +10,14 @@ import Sports from './components/Sports'
 import header from './components/header';
 import LandingPage from './components/LandingPage';
 import Navbar from './components/Navbar';
-import portfolio from './components/attractions';
+import portfolio from './components/Attractions';
 import socialLinksAtBottom from './components/socialLinksAtBottom';
 import TeamPage from './components/TeamPage';
 import testimonials from './components/testimonials';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { Container, Row, Col, Form } from 'react-bootstrap';
-import Attractions from './components/attractions';
+import Attractions from './components/Attractions';
 import Base from './components/Footer';
 import Footer from './components/Footer';
 

@@ -47,7 +47,7 @@ class Attractions extends Component {
                                     data-lightbox="image-1" /> */}
                                     <i class="tf-ion-android-search"></i>
                           
-                                <h4><a href="">Cincinnati Reds</a></h4>
+                                <h4><a href="https://www.mlb.com/reds">Cincinnati Reds</a></h4>
                                 <p class="mb-0">The Cincinnati Reds is our baseball team</p>
                             </div>
                         </div>
@@ -60,7 +60,7 @@ class Attractions extends Component {
                                     data-lightbox="image-1">
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
-                                <h4><a href="">The Bengals</a></h4>
+                                <h4><a href="https://www.mlb.com/reds">The Bengals</a></h4>
                                 <p class="mb-0">WHO-DEY our signature saying for our football team The Bengals</p>
                             </div>
                         </div>
@@ -83,7 +83,7 @@ class Attractions extends Component {
                                     data-lightbox="image-1">
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
-                                <h4><a href="">The Van Gogh Art Museum</a></h4>
+                                <h4><a href="https://www.mlb.com/reds">The Van Gogh Art Museum</a></h4>
                                 <p class="mb-0">The Van Gogh museum was recently opened earlier 2022 to the public to give an art history of the historical painter.</p>
                             </div>
                         </div>
@@ -96,7 +96,7 @@ class Attractions extends Component {
                                     data-lightbox="image-1">
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
-                                <h4><a href="">Contemporary Art Center</a></h4>
+                                <h4><a href="https://www.mlb.com/reds">Contemporary Art Center</a></h4>
                                 <p class="mb-0">This art center is one of our most popular art atractions in the Cincinnati area houses art from a lot of local artists best pieces.</p>
                             </div>
                         </div>
@@ -109,7 +109,7 @@ class Attractions extends Component {
                                     data-lightbox="image-1">
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
-                                <h4><a href="">Play House In The Park</a></h4>
+                                <h4><a href="https://www.mlb.com/reds">Play House In The Park</a></h4>
                                 <p class="mb-0">Our theater provides a live performance of many famous plays and create an immursive feeling for the audience.</p>
                             </div>
                         </div>
@@ -122,7 +122,7 @@ class Attractions extends Component {
                                     data-lightbox="image-1">
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
-                                <h4><a href="">Union Center Terminal</a></h4>
+                                <h4><a href="https://www.mlb.com/reds">Union Center Terminal</a></h4>
                                 <p class="mb-0">Union Center Terminal was founded in the 1920's connecting multiple rail lines but over time it eventually became an art museum for the public.</p>
                             </div>
                         </div>
@@ -135,7 +135,7 @@ class Attractions extends Component {
                                     data-lightbox="image-1">
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
-                                <h4><a href="">Greaters</a></h4>
+                                <h4><a href="https://www.mlb.com/reds">Greaters</a></h4>
                                 <p class="mb-0">Greaters is one of the biggest ice cream franchises in Cincinnati and is home of the black berry raspberry chocolate chip.
                                 </p>
                             </div>
@@ -149,7 +149,7 @@ class Attractions extends Component {
                                     data-lightbox="image-1">
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
-                                <h4><a href="">La Rosa's</a></h4>
+                                <h4><a href="https://www.mlb.com/reds">La Rosa's</a></h4>
                                 <p class="mb-0">La Rosa's is our famous local pizzeria founded in 1954 by Buddy Larosa.</p>
                             </div>
                         </div>
