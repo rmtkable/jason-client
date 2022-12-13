@@ -24,23 +24,23 @@ class navbar extends Component {
         <div class="collapse navbar-collapse" id="navbar01">
           <ul class="navbar-nav navigation-menu ml-auto">
             <li class="nav-item" >
-              <a style={{color: '#262629'}} class="nav-link" href="./">Home</a>
+              <a style={{color: '#262629'}} class="nav-link" href="/">Home</a>
             </li>
 
             <li class="nav-item">
-              <a style={{color: '#262629'}} class="nav-link" href="./CultureHistory">Culture & History</a>
+              <a style={{color: '#262629'}} class="nav-link" href="/CultureHistory">Culture & History</a>
             </li>
             <li class="nav-item">
-              <a style={{color: '#262629'}} class="nav-link" href="./Attractions">Attractions</a>
+              <a style={{color: '#262629'}} class="nav-link" href="/Attractions">Attractions</a>
             </li>
             <li class="nav-item">
-              <a style={{color: '#262629'}} class="nav-link" href="./Sports">Sport Venues</a>
+              <a style={{color: '#262629'}} class="nav-link" href="/Sports">Sport Venues</a>
             </li>
             <li class="nav-item">
-              <a style={{color: '#262629'}} class="nav-link" href="./Contact">Contact</a>
+              <a style={{color: '#262629'}} class="nav-link" href="/Contact">Contact</a>
             </li>
             <li class="nav-item">
-              <a style={{color: '#262629'}} class="nav-link" href="./teamPage">Team</a>
+              <a style={{color: '#262629'}} class="nav-link" href="/teamPage">Team</a>
             </li>
           </ul>
         </div>
