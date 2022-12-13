@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {Link} from 'react-router-dom';
  
 class navbar extends Component {
     render() {
@@ -24,23 +25,23 @@ class navbar extends Component {
         <div class="collapse navbar-collapse" id="navbar01">
           <ul class="navbar-nav navigation-menu ml-auto">
             <li class="nav-item" >
-              <a style={{color: '#262629'}} class="nav-link" href="/">Home</a>
+              <a style={{color: '#262629'}} class="nav-link" to="/">Home</a>
             </li>
 
             <li class="nav-item">
-              <a style={{color: '#262629'}} class="nav-link" href="/CultureHistory">Culture & History</a>
+              <Link style={{color: '#262629'}} class="nav-link" to="/CultureHistory">Culture & History</Link>
             </li>
             <li class="nav-item">
-              <a style={{color: '#262629'}} class="nav-link" href="/Attractions">Attractions</a>
+              <Link style={{color: '#262629'}} class="nav-link" to="/Attractions">Attractions</Link>
             </li>
             <li class="nav-item">
-              <a style={{color: '#262629'}} class="nav-link" href="/Sports">Sport Venues</a>
+              <Link style={{color: '#262629'}} class="nav-link" to="/Sports">Sport Venues</Link>
             </li>
             <li class="nav-item">
-              <a style={{color: '#262629'}} class="nav-link" href="/Contact">Contact</a>
+              <Link style={{color: '#262629'}} class="nav-link" to="/Contact">Contact</Link>
             </li>
             <li class="nav-item">
-              <a style={{color: '#262629'}} class="nav-link" href="/teamPage">Team</a>
+              <Link style={{color: '#262629'}} class="nav-linLink" to="/teamPage">Team</Link>
             </li>
           </ul>
         </div>
