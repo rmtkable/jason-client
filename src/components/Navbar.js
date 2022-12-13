@@ -25,7 +25,7 @@ class navbar extends Component {
         <div class="collapse navbar-collapse" id="navbar01">
           <ul class="navbar-nav navigation-menu ml-auto">
             <li class="nav-item" >
-              <a style={{color: '#262629'}} class="nav-link" to="/">Home</a>
+              <Link style={{color: '#262629'}} class="nav-link" to="/">Home</Link>
             </li>
 
             <li class="nav-item">
